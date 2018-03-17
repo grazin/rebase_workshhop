@@ -1,1 +1,2 @@
 Łukasz tu był
+Dodaje
