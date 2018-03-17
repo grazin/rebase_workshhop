@@ -1,2 +1,6 @@
 w miedzyczasie
+<<<<<<< HEAD
 add
+=======
+No to git
+>>>>>>> Koty są fajne
